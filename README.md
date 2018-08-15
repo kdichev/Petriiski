@@ -1,2 +1,0 @@
-# Petriiski
-Created with CodeSandbox
